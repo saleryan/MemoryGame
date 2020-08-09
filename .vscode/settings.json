@@ -1,0 +1,18 @@
+{
+    "editor.formatOnSave": true,
+    "[javascript]": {
+        // Let eslint do this formatting on save
+        "editor.formatOnSave": false
+    },
+    // ESLint settings
+    "eslint.alwaysShowStatus": true,
+    "eslint.lintTask.enable": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "window.zoomLevel": 0
+}

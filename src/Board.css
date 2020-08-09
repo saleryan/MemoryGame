@@ -1,0 +1,8 @@
+.board {
+    display: flex;
+    width: 400px;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    margin-top: 25px;
+    flex-flow: wrap;
+}

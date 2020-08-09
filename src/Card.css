@@ -1,0 +1,14 @@
+.card {
+    display: flex;
+    border: 1px solid black;
+    width: 80px;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2%;
+    user-select: none;
+}
+
+.card.facedown {
+    background-color: black;
+}
